@@ -1,16 +1,15 @@
-## Hi there 👋
+## Noah Stalbow
 
-<!--
-**noahstalbs/noahstalbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS at UC Santa Cruz, graduating 2028. Currently on exchange at PUC-Rio in Brazil.
 
-Here are some ideas to get you started:
+**Building:** Exactly Analytics - a multi-tenant analytics platform for
+lower-league soccer clubs. Opposition tactical reports and percentile-based
+scouting models. In production with AV Alta FC (USL League One).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously:** SWE intern at ProRata.AI - built citation-prediction models for
+AI search engines and prototyped an agentic site-auditing tool.
+
+**Interests:** product engineering and management, AI agents in production, working with brilliant teams
+
+Most of my work is in private repos - Exactly Analytics is a commercial product
+and the AV Alta work involves club data. Happy to walk through any of it.
